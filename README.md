@@ -1,4 +1,9 @@
 zk-example
 ==========
 
-simple example for zookeeper usage
+Simple example for zookeeper usage
+
+The example contains:
+	- distribute queue
+	- leader election
+	- dynamic configuration
